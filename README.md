@@ -1,0 +1,2 @@
+# OPMA419 Group Project2
+Our predictive analytics class, OPMA 419, group project. Made in collaboration with [Shaan Gehlot](https://www.linkedin.com/in/shaan-gehlot/) and [Nevin Sangha](https://www.linkedin.com/in/nevinsangha/). We used predictive analytics to predict a lifters max deadlift, using machine learning algorithms. This was mostly done in RapidMiner studio but I am considering converting it into Python!
